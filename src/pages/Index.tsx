@@ -16,24 +16,28 @@ const Index = () => {
       description: "Nikmati keindahan pantai tropis dengan pasir putih dan air jernih",
       image: heroImg,
       icon: Waves,
+      slug: "pantai",
     },
     {
       title: "Gunung",
       description: "Jelajahi pegunungan yang menakjubkan dan udara segar",
       image: mountainImg,
       icon: Mountain,
+      slug: "gunung",
     },
     {
       title: "Budaya",
       description: "Rasakan kekayaan budaya dan tradisi lokal yang autentik",
       image: cultureImg,
       icon: Palette,
+      slug: "budaya",
     },
     {
       title: "Petualangan",
       description: "Tantang adrenalin dengan aktivitas ekstrem yang seru",
       image: adventureImg,
       icon: Zap,
+      slug: "petualangan",
     },
   ];
 
